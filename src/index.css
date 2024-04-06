@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.input-group-text{
+    height:40px;
+    cursor:pointer;
+}
